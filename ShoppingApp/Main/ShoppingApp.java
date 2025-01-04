@@ -5,9 +5,6 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-// Kod şuan sıkıntıda değil çalışması gerekiyor ama datastorage kısmında bir hata var onu düzeltirseniz çalışacaktır. Hata library kısmında görmüyor, libraryi'i ekleyin.
-
-
 import panels.AdminPanel;
 import panels.UserPanel;
 import panels.LoginPanel;
